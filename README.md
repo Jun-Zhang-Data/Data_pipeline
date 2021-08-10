@@ -4,6 +4,6 @@ Dependencies:
 
 <sub>Pandas 1.2.4</sub>
 
-<sub><sup>Numpy 1.19.2</sup></sub>
+<sub>Numpy 1.19.2</sub>
 
 
