@@ -2,7 +2,8 @@ Data_pipeline for the Rocker data pipeline assignment, which gives the informati
 
 Dependencies:
 
-<sub>Pandas 1.2.4</sub>/n
+<sub>Pandas 1.2.4</sub>
+
 <sub>Numpy 1.19.2</sub>
 
 
