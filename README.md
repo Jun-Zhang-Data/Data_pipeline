@@ -4,7 +4,7 @@
 
 ### Dependencies:
 
-<br><sub>Pandas 1.2.4</sub></br>
+<sub>Pandas 1.2.4</sub></br>
 <sub>Numpy 1.19.2</sub>
 
 
