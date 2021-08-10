@@ -4,7 +4,8 @@
 
 ### Dependencies:
 
-#### Pandas 1.2.4
-#### Numpy 1.19.2
+<n><sub>Pandas 1.2.4</sub></n>
+<sub>Numpy 1.19.2</sub>
+
 
 
